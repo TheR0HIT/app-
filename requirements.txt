@@ -1,5 +1,7 @@
-faster-whisper
-jiwer
-pandas
-matplotlib
+streamlit
 soundfile
+openai-whisper
+torch
+numpy
+jiwer
+transformers
