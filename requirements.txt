@@ -2,3 +2,4 @@ faster-whisper
 jiwer
 pandas
 matplotlib
+soundfile
